@@ -11,6 +11,7 @@ cp -rv desktoptheme/Culla "$PLASMA"
 BIN="${HOME}/.local/bin"
 mkdir -pv "$BIN"
 cp -v Culla.py "$BIN"
+chmod -v 755 "$BIN"/Culla.py
 
 SCHEME="${HOME}/.local/share/color-schemes"
 mkdir -pv "$SCHEME"
