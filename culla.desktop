@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Culla
+GenericName=Culla
+NoDisplay=false
+Comment=Colourise the desktop
+Exec=Culla.py
+Icon=culla.png
+Terminal=false
+MimeType=
+Categories=Settings;DesktopSettings;
+Encoding=UTF-8
+StartupNotify=False
