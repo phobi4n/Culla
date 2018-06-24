@@ -13,10 +13,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7080"
    version="1.0"
-   viewBox="0 0 92.261841 41.92139"
-   height="41.921379"
-   width="92.261841"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   viewBox="0 0 76.895027 33.602647"
+   height="33.602638"
+   width="76.895027"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="viewitem.svg">
   <sodipodi:namedview
      pagecolor="#36413f"
@@ -31,11 +31,11 @@
      inkscape:window-height="954"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="16.739"
-     inkscape:cx="34.788812"
-     inkscape:cy="15.264189"
+     inkscape:zoom="8.3695"
+     inkscape:cx="53.46212"
+     inkscape:cy="11.028795"
      inkscape:current-layer="svg7080"
-     inkscape:pagecheckerboard="false"
+     inkscape:pagecheckerboard="true"
      inkscape:window-x="222"
      inkscape:window-y="134"
      inkscape:window-maximized="0"
@@ -46,14 +46,14 @@
      fit-margin-bottom="5" />
   <defs
      id="defs7082">
-      <style
-          id="current-color-scheme"
-          type="text/css">
+    <style
+       id="current-color-scheme"
+       type="text/css">
           .ColorScheme-Text {
           color:#31363b;
           }
           .ColorScheme-Background{
-          color:#eff0f1;
+          
           }
           .ColorScheme-ViewText {
           color:#31363b;
@@ -71,7 +71,7 @@
           color:#31363b;
           }
           .ColorScheme-ButtonBackground{
-          color:#eff0f1;
+          
           }
           .ColorScheme-ButtonHover {
           color:#3daee9;
@@ -147,7 +147,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -156,19 +156,19 @@
      height="5"
      x="5"
      width="5"
-     y="11.86264"
+     y="5"
      style="opacity:0.875;fill:#0000ff" />
   <rect
      style="opacity:1;fill:#eef803;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.59853661;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="hover-hint-top-margin"
      width="2"
-     height="6"
-     x="70.975616"
-     y="13.401932" />
+     height="8"
+     x="61.895027"
+     y="7.406846" />
   <rect
-     y="30.921379"
-     x="71.093994"
-     height="6"
+     y="17.406847"
+     x="61.895027"
+     height="8"
      width="2"
      id="hover-hint-bottom-margin"
      style="opacity:1;fill:#eef803;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.59853661;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -177,11 +177,11 @@
      id="hover-hint-right-margin"
      width="8"
      height="2"
-     x="79.261841"
-     y="24.1493" />
+     x="63.895027"
+     y="15.406847" />
   <rect
-     y="23.557426"
-     x="57.244167"
+     y="15.406847"
+     x="53.895023"
      height="2"
      width="8"
      id="hover-hint-left-margin"
@@ -193,10 +193,10 @@
      width="16"
      height="16"
      x="24.519819"
-     y="16.465281" />
+     y="9.6026402" />
   <rect
      y="-43.519814"
-     x="16.465281"
+     x="9.6026402"
      height="3"
      width="16"
      id="hover-right"
@@ -210,7 +210,7 @@
      id="hover-left"
      width="16"
      height="3"
-     x="16.465281"
+     x="9.6026402"
      y="-24.519819" />
   <rect
      transform="scale(-1)"
@@ -220,9 +220,9 @@
      width="16"
      height="3"
      x="-40.519817"
-     y="-16.465281" />
+     y="-9.6026402" />
   <rect
-     y="-35.465279"
+     y="-28.602638"
      x="-40.519817"
      height="3"
      width="16"
@@ -230,36 +230,32 @@
      class="ColorScheme-ButtonBackground"
      style="fill:currentColor;fill-opacity:0.5;stroke:none;stroke-width:0.13856408"
      transform="scale(-1)" />
-  <rect
+  <path
      style="opacity:1;fill:currentColor;fill-opacity:0.5;fill-rule:evenodd;stroke:none;stroke-width:34.8672905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="hover-bottomleft"
-     class="ColorScheme-ButtonBackground"
-     width="3"
-     height="3"
-     x="21.519817"
-     y="32.465279" />
-  <rect
-     y="13.465281"
-     x="21.519817"
-     height="3"
-     width="3"
-     class="ColorScheme-ButtonBackground"
-     id="hover-topleft"
-     style="opacity:1;fill:currentColor;fill-opacity:0.5;fill-rule:evenodd;stroke:none;stroke-width:34.8672905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  <rect
-     style="opacity:1;fill:currentColor;fill-opacity:0.5;fill-rule:evenodd;stroke:none;stroke-width:34.8672905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 40.519814,6.6026406 c 2.984041,0 3,-0.01108 3,3 h -3 z"
      id="hover-topright"
      class="ColorScheme-ButtonBackground"
-     width="3"
-     height="3"
-     x="40.519814"
-     y="13.465281" />
-  <rect
-     y="32.465279"
-     x="40.519814"
-     height="3"
-     width="3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     id="hover-topleft"
      class="ColorScheme-ButtonBackground"
+     d="m 24.519817,6.6026406 c -2.984041,0 -3,-0.01108 -3,3 h 3 z"
+     style="opacity:1;fill:currentColor;fill-opacity:0.5;fill-rule:evenodd;stroke:none;stroke-width:34.8672905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
      id="hover-bottomright"
+     class="ColorScheme-ButtonBackground"
+     d="m 40.519817,28.602638 c 2.984041,0 3,0.01108 3,-3 h -3 z"
+     style="opacity:1;fill:currentColor;fill-opacity:0.5;fill-rule:evenodd;stroke:none;stroke-width:34.8672905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0"
+     id="hover-bottomleft"
+     class="ColorScheme-ButtonBackground"
+     d="m 24.519817,28.602638 c -2.984041,0 -3,0.01108 -3,-3 h 3 z"
      style="opacity:1;fill:currentColor;fill-opacity:0.5;fill-rule:evenodd;stroke:none;stroke-width:34.8672905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 </svg>
