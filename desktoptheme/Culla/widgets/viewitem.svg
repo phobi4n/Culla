@@ -31,9 +31,9 @@
      inkscape:window-height="954"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="8.3695"
-     inkscape:cx="53.46212"
-     inkscape:cy="11.028795"
+     inkscape:zoom="16"
+     inkscape:cx="32.507933"
+     inkscape:cy="18.317913"
      inkscape:current-layer="svg7080"
      inkscape:pagecheckerboard="true"
      inkscape:window-x="222"
@@ -43,7 +43,12 @@
      fit-margin-top="5"
      fit-margin-left="5"
      fit-margin-right="5"
-     fit-margin-bottom="5" />
+     fit-margin-bottom="5"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true" />
   <defs
      id="defs7082">
     <style
@@ -147,7 +152,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -232,30 +237,26 @@
      transform="scale(-1)" />
   <path
      style="opacity:1;fill:currentColor;fill-opacity:0.5;fill-rule:evenodd;stroke:none;stroke-width:34.8672905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 40.519814,6.6026406 c 2.984041,0 3,-0.01108 3,3 h -3 z"
+     d="m 40.519814,6.6026402 v 3 h 3 v -1.5 -0.039063 c 0,-0.8093514 -0.649634,-1.4609375 -1.458984,-1.4609375 h -0.04102 z"
      id="hover-topright"
      class="ColorScheme-ButtonBackground"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccc" />
+     inkscape:connector-curvature="0" />
   <path
-     sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonBackground"
      id="hover-topleft"
-     class="ColorScheme-ButtonBackground"
-     d="m 24.519817,6.6026406 c -2.984041,0 -3,-0.01108 -3,3 h 3 z"
+     d="m 24.519817,6.6026404 v 3 h -3 v -1.5 -0.039063 c 0,-0.8093514 0.649634,-1.4609375 1.458984,-1.4609375 h 0.04102 z"
      style="opacity:1;fill:currentColor;fill-opacity:0.5;fill-rule:evenodd;stroke:none;stroke-width:34.8672905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <path
-     sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0"
+     class="ColorScheme-ButtonBackground"
      id="hover-bottomright"
-     class="ColorScheme-ButtonBackground"
-     d="m 40.519817,28.602638 c 2.984041,0 3,0.01108 3,-3 h -3 z"
+     d="m 40.519814,28.602641 v -3 h 3 v 1.5 0.03906 c 0,0.809352 -0.649634,1.460938 -1.458984,1.460938 h -0.04102 z"
      style="opacity:1;fill:currentColor;fill-opacity:0.5;fill-rule:evenodd;stroke:none;stroke-width:34.8672905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <path
-     sodipodi:nodetypes="cccc"
      inkscape:connector-curvature="0"
-     id="hover-bottomleft"
      class="ColorScheme-ButtonBackground"
-     d="m 24.519817,28.602638 c -2.984041,0 -3,0.01108 -3,-3 h 3 z"
+     id="hover-bottomleft"
+     d="m 24.519817,28.602638 v -3 h -3 v 1.5 0.03906 c 0,0.809351 0.649634,1.460937 1.458984,1.460937 h 0.04102 z"
      style="opacity:1;fill:currentColor;fill-opacity:0.5;fill-rule:evenodd;stroke:none;stroke-width:34.8672905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 </svg>
