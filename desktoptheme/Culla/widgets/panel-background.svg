@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.445394"
-     inkscape:cx="117.59347"
-     inkscape:cy="50.559621"
+     inkscape:zoom="10.921543"
+     inkscape:cx="106.61706"
+     inkscape:cy="43.770326"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -70,7 +70,7 @@
       <stop
          id="stop884"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.43921569" />
+         style="stop-color:#000000;stop-opacity:0.25098041" />
       <stop
          id="stop886"
          offset="1"
@@ -82,7 +82,7 @@
       <stop
          id="stop878"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.43921569" />
+         style="stop-color:#000000;stop-opacity:0.25098041" />
       <stop
          id="stop880"
          offset="1"
@@ -94,7 +94,7 @@
       <stop
          id="stop872"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.43921569" />
+         style="stop-color:#000000;stop-opacity:0.25098041" />
       <stop
          id="stop874"
          offset="1"
@@ -115,7 +115,7 @@
        inkscape:collect="always"
        id="linearGradient869">
       <stop
-         style="stop-color:#000000;stop-opacity:0.43921569"
+         style="stop-color:#000000;stop-opacity:0.25098041"
          offset="0"
          id="stop865" />
       <stop
@@ -165,7 +165,7 @@
       <stop
          id="stop918"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0.43921569" />
+         style="stop-color:#000000;stop-opacity:0.25098041" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -187,7 +187,7 @@
       <stop
          id="stop906"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0.43921569" />
+         style="stop-color:#000000;stop-opacity:0.25098041" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -207,7 +207,7 @@
          offset="0"
          id="stop857" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.43921569"
+         style="stop-color:#000000;stop-opacity:0.25098041"
          offset="1"
          id="stop859" />
     </linearGradient>
@@ -242,7 +242,7 @@
       <stop
          id="stop912"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0.43859649" />
+         style="stop-color:#000000;stop-opacity:0.25" />
     </linearGradient>
   </defs>
   <style
@@ -316,9 +316,9 @@
        width="3"
        id="top"
        class="ColorScheme-Background"
-       style="fill:currentColor;fill-opacity:0.9;stroke:none;stroke-width:0.24000004" />
+       style="fill:currentColor;fill-opacity:0.98;stroke:none;stroke-width:0.24000004" />
     <rect
-       style="fill:currentColor;fill-opacity:0.9;stroke:none;stroke-width:0.24000005"
+       style="fill:currentColor;fill-opacity:0.98;stroke:none;stroke-width:0.24000005"
        id="right"
        class="ColorScheme-Background"
        width="3"
@@ -326,7 +326,7 @@
        x="226.59435"
        y="304.84363" />
     <rect
-       style="fill:currentColor;fill-opacity:0.9;stroke:none;stroke-width:0.24000004"
+       style="fill:currentColor;fill-opacity:0.98;stroke:none;stroke-width:0.24000004"
        id="bottom"
        class="ColorScheme-Background"
        width="3"
@@ -341,7 +341,7 @@
        width="48"
        id="center"
        class="ColorScheme-Background"
-       style="fill:currentColor;fill-opacity:0.9;stroke:none;stroke-width:0.96000034" />
+       style="fill:currentColor;fill-opacity:0.98;stroke:none;stroke-width:0.96000034" />
     <rect
        transform="rotate(90)"
        style="fill:#79cbff;fill-opacity:1;stroke:none;stroke-width:0.20412518"
@@ -365,7 +365,7 @@
        width="3"
        id="left"
        class="ColorScheme-Background"
-       style="fill:currentColor;fill-opacity:0.9;stroke:none;stroke-width:0.24000005" />
+       style="fill:currentColor;fill-opacity:0.98;stroke:none;stroke-width:0.24000005" />
     <rect
        y="-246.31116"
        x="269.59692"
@@ -389,9 +389,9 @@
        width="3"
        id="topright"
        class="ColorScheme-Background"
-       style="fill:currentColor;fill-opacity:0.9;stroke:none;stroke-width:0.06000001" />
+       style="fill:currentColor;fill-opacity:0.98;stroke:none;stroke-width:0.06000001" />
     <rect
-       style="fill:currentColor;fill-opacity:0.9;stroke:none;stroke-width:0.06000001"
+       style="fill:currentColor;fill-opacity:0.98;stroke:none;stroke-width:0.06000001"
        id="topleft"
        class="ColorScheme-Background"
        width="3"
@@ -405,9 +405,9 @@
        width="3"
        class="ColorScheme-Background"
        id="bottomleft"
-       style="fill:currentColor;fill-opacity:0.9;stroke:none;stroke-width:0.06000001" />
+       style="fill:currentColor;fill-opacity:0.98;stroke:none;stroke-width:0.06000001" />
     <rect
-       style="fill:currentColor;fill-opacity:0.9;stroke:none;stroke-width:0.06000001"
+       style="fill:currentColor;fill-opacity:0.98;stroke:none;stroke-width:0.06000001"
        id="bottomright"
        class="ColorScheme-Background"
        width="3"
